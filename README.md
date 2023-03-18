@@ -1,4 +1,4 @@
-# Robot Simulator
+# Outdoor Activity
 
 The application is a console application that obtains weather data from the weatherstack API and answers three questions related to outdoor activities.
 
